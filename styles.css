@@ -3,13 +3,13 @@ p{
 }
 
 a{
-    color: red;
+    background-color: red;
 }
 
 div{
-    color: purple;
+    background-color: purple;
 }
 
 span{
-    color: green;
+    background-color: green;
 }

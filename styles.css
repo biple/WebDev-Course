@@ -6,10 +6,15 @@ a{
     background-color: red;
 }
 
-div{
+/* div{
     background-color: purple;
-}
+} */
 
 span{
     background-color: green;
 }
+
+#firstdiv{
+    color: red;
+}
+

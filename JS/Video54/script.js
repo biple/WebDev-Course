@@ -14,3 +14,7 @@ else{
 }
 
 console.log("The number is: " + a);
+
+document.title = "New Title";
+
+document.body.style.backgroundColor = "lightblue";
